@@ -1,13 +1,13 @@
 # {{TITEL DER ARBEIT}}
 
 > **Status:** In Arbeit. Inhalte erst nach Gegenprüfung aus `Dossier.md` übernehmen; jede Aussage mit
-> {{ZITIERSTIL}}-Beleg aus `Quellen.md`; Unklares nach `Offene-Punkte.md`. Keine Inhalte raten.
+> APA-7-Beleg (mit Seitenangabe) aus `Quellen.md`; Unklares nach `Offene-Punkte.md`. Keine Inhalte raten.
 
 **Forschungsfrage:** {{FORSCHUNGSFRAGE}}
 
 **Kernthese:** {{KERNTHESE in einem Satz}}
 
-**Umfang:** {{z. B. 10 Seiten reiner Fließtext}}, wissenschaftlich, {{ZITIERSTIL}}. Pflichtbestandteile
+**Umfang:** {{laut Prüfungsleitfaden}}, wissenschaftlich, APA 7 (IU-Variante). Pflichtbestandteile
 (Deckblatt, Verzeichnisse, Eigenständigkeitserklärung) entstehen erst beim Word-Umzug, hier nur Fließtext.
 **Anker-Fälle:** {{FALL 1}}, {{FALL 2}}.
 
