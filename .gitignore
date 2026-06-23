@@ -1,0 +1,20 @@
+# Rohdaten-/Scratch-Dumps (rohe Web-/API-Antworten) gehören nicht ins Repo
+scratch/
+*.scratch.md
+*.raw.txt
+*.raw.json
+
+# Office-Export & Temporärdateien (Endfassung wird manuell erzeugt, nicht versioniert)
+~$*.docx
+~$*.doc
+*.tmp
+
+# Optional: erzeugte Exporte. Auskommentieren, wenn die Endfassung doch ins Repo soll.
+# *.docx
+# *.pdf
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
